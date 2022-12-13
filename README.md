@@ -79,4 +79,3 @@ npm update
 - https://github.com/browserslist/browserslist
 - https://github.com/browserslist/browserslist-example
 - https://sass-lang.com
-

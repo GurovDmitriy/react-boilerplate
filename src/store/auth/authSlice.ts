@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit"
 import { User } from "../../api/auth/auth"
-import { ActionStatus } from "../types"
+import { ActionStatus } from "../storeTypes"
 import {
   signCheckAction,
   signInAction,
